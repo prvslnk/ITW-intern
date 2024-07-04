@@ -36,7 +36,7 @@
 3. **Interface Implementation:**
    Create an interface Drawable with a method drawInfo. Implement this interface in two classes Square and Triangle and print the info about the shapes.
 
-### SET 3 [Functions & Classes]
+### SET 3 [Collection's & Null Safety]
 
 `Collections`
 
