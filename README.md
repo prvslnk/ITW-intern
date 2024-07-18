@@ -71,4 +71,4 @@
 
 🔗 Link: [Asg8](https://github.com/prvslnk/eZshop)
 
-### [Firebase]()
+### [Firebase](https://github.com/prvslnk/ITW-intern/tree/Firebase?tab=readme-ov-file)
