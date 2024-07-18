@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295558674766",
+    "project_id": "phoneauth-e9ef6",
+    "storage_bucket": "phoneauth-e9ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295558674766:android:0c285b37db9ff6af63061f",
+        "android_client_info": {
+          "package_name": "com.pravas.phoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaQnnzFw7_BQKxYuQ2XPCqPoV1aHtZRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348250280298",
+    "project_id": "firestore-3eba4",
+    "storage_bucket": "firestore-3eba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348250280298:android:a6eac816c58d59219cd513",
+        "android_client_info": {
+          "package_name": "com.pravas.firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIazSyCVFuN8XEcc_920zcl_vCcGMGA2Ll7ujHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

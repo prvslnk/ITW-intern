@@ -1,7 +1,10 @@
-## Assignment 1
+## Firebase Firestore
 
--   History of Jetpack Compose.
--   Implement App lifecycles methods and prepare a note on it.
--   Build Your application on both emulator and physical device. Implement all the modifiers of Text. Push your codes to git and include screenshots
+![Firebase](<Screens/Screenshot 2024-07-19 021406.png>)
 
-🔗 Link: [Assignment 1](notes_JC_&_lifecycle/BASIC_app/)
+## Phone Authentication
+
+![1](<Screens/Screenshot 2024-07-19 024048.png>)
+![2](<Screens/Screenshot 2024-07-19 030215.png>)
+![3](Screens/Screenshot_2024-07-19-03-00-27-35_0fca042c63909bfadf4a0b233633f340.jpg)
+![4](Screens/Screenshot_2024-07-19-03-01-12-15_0fca042c63909bfadf4a0b233633f340.jpg)
